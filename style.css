@@ -45,10 +45,18 @@ button {
     background-color: #123456;
 }
 
-#secondButton {
+/* #secondButton {
     background-color: #789456;
 }
 
 #thirdButton {
+    background-color: #741852;
+} */
+
+section:first-of-type button {
+    background-color: #789456;
+}
+
+section:last-of-type button {
     background-color: #741852;
 }
