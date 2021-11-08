@@ -25,12 +25,10 @@ section {
 }
 
 section:first-of-type {
-    position: relative;
     background-color: #f1a5e7;
 }
 
 section:last-of-type {
-    position: relative;
     background-color: #125483;
 }
 
